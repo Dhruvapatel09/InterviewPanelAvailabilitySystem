@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Repos\\Alpha\\InterviewPanelAvailabilitySystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7620996-57DA-4AE6-B859-488F6642D3F3}|InterviewPanelAvailabilitySystemAPI\\InterviewPanelAvailabilitySystemAPI.csproj|c:\\repos\\alpha\\interviewpanelavailabilitysystem\\interviewpanelavailabilitysystemapi\\models\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7620996-57DA-4AE6-B859-488F6642D3F3}|InterviewPanelAvailabilitySystemAPI\\InterviewPanelAvailabilitySystemAPI.csproj|solutionrelative:interviewpanelavailabilitysystemapi\\models\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CE60614-7B8D-432D-BA18-E330887ED376}|InterviewerAvailabilityPanelSystemMVCTests\\InterviewPanelAvailabilitySystemMVCTests.csproj|c:\\repos\\alpha\\interviewpanelavailabilitysystem\\intervieweravailabilitypanelsystemmvctests\\controllertests\\recruitercontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CE60614-7B8D-432D-BA18-E330887ED376}|InterviewerAvailabilityPanelSystemMVCTests\\InterviewPanelAvailabilitySystemMVCTests.csproj|solutionrelative:intervieweravailabilitypanelsystemmvctests\\controllertests\\recruitercontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F5DAD24-DFA8-413D-9E5F-43ED2F2125DE}|InterviewPanelAvailabilitySystemAPITest\\InterviewPanelAvailabilitySystemAPITest.csproj|c:\\repos\\alpha\\interviewpanelavailabilitysystem\\interviewpanelavailabilitysystemapitest\\services\\interviewerservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F5DAD24-DFA8-413D-9E5F-43ED2F2125DE}|InterviewPanelAvailabilitySystemAPITest\\InterviewPanelAvailabilitySystemAPITest.csproj|solutionrelative:interviewpanelavailabilitysystemapitest\\services\\interviewerservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F5DAD24-DFA8-413D-9E5F-43ED2F2125DE}|InterviewPanelAvailabilitySystemAPITest\\InterviewPanelAvailabilitySystemAPITest.csproj|c:\\repos\\alpha\\interviewpanelavailabilitysystem\\interviewpanelavailabilitysystemapitest\\services\\adminservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F5DAD24-DFA8-413D-9E5F-43ED2F2125DE}|InterviewPanelAvailabilitySystemAPITest\\InterviewPanelAvailabilitySystemAPITest.csproj|solutionrelative:interviewpanelavailabilitysystemapitest\\services\\adminservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CE60614-7B8D-432D-BA18-E330887ED376}|InterviewerAvailabilityPanelSystemMVCTests\\InterviewPanelAvailabilitySystemMVCTests.csproj|c:\\repos\\alpha\\interviewpanelavailabilitysystem\\intervieweravailabilitypanelsystemmvctests\\controllertests\\authcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CE60614-7B8D-432D-BA18-E330887ED376}|InterviewerAvailabilityPanelSystemMVCTests\\InterviewPanelAvailabilitySystemMVCTests.csproj|solutionrelative:intervieweravailabilitypanelsystemmvctests\\controllertests\\authcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CE60614-7B8D-432D-BA18-E330887ED376}|InterviewerAvailabilityPanelSystemMVCTests\\InterviewPanelAvailabilitySystemMVCTests.csproj|c:\\repos\\alpha\\interviewpanelavailabilitysystem\\intervieweravailabilitypanelsystemmvctests\\controllertests\\admincontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CE60614-7B8D-432D-BA18-E330887ED376}|InterviewerAvailabilityPanelSystemMVCTests\\InterviewPanelAvailabilitySystemMVCTests.csproj|solutionrelative:intervieweravailabilitypanelsystemmvctests\\controllertests\\admincontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{532A7419-A527-4546-8090-7CDADBE817C7}|InterviewPanelAvailabilitySystemMVC\\InterviewPanelAvailabilitySystemMVC.csproj|c:\\repos\\alpha\\interviewpanelavailabilitysystem\\interviewpanelavailabilitysystemmvc\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{532A7419-A527-4546-8090-7CDADBE817C7}|InterviewPanelAvailabilitySystemMVC\\InterviewPanelAvailabilitySystemMVC.csproj|solutionrelative:interviewpanelavailabilitysystemmvc\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 300,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 372,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employees.cs",
+              "DocumentMoniker": "C:\\Repos\\Alpha\\InterviewPanelAvailabilitySystem\\InterviewPanelAvailabilitySystemAPI\\Models\\Employees.cs",
+              "RelativeDocumentMoniker": "InterviewPanelAvailabilitySystemAPI\\Models\\Employees.cs",
+              "ToolTip": "C:\\Repos\\Alpha\\InterviewPanelAvailabilitySystem\\InterviewPanelAvailabilitySystemAPI\\Models\\Employees.cs",
+              "RelativeToolTip": "InterviewPanelAvailabilitySystemAPI\\Models\\Employees.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T06:20:01.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InterviewerServiceTests.cs",
+              "DocumentMoniker": "C:\\Repos\\Alpha\\InterviewPanelAvailabilitySystem\\InterviewPanelAvailabilitySystemAPITest\\Services\\InterviewerServiceTests.cs",
+              "RelativeDocumentMoniker": "InterviewPanelAvailabilitySystemAPITest\\Services\\InterviewerServiceTests.cs",
+              "ToolTip": "C:\\Repos\\Alpha\\InterviewPanelAvailabilitySystem\\InterviewPanelAvailabilitySystemAPITest\\Services\\InterviewerServiceTests.cs",
+              "RelativeToolTip": "InterviewPanelAvailabilitySystemAPITest\\Services\\InterviewerServiceTests.cs",
+              "ViewState": "AQIAAAoBAAAAAAAAAAD4v0MBAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T05:10:20.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminServiceTests.cs",
+              "DocumentMoniker": "C:\\Repos\\Alpha\\InterviewPanelAvailabilitySystem\\InterviewPanelAvailabilitySystemAPITest\\Services\\AdminServiceTests.cs",
+              "RelativeDocumentMoniker": "InterviewPanelAvailabilitySystemAPITest\\Services\\AdminServiceTests.cs",
+              "ToolTip": "C:\\Repos\\Alpha\\InterviewPanelAvailabilitySystem\\InterviewPanelAvailabilitySystemAPITest\\Services\\AdminServiceTests.cs",
+              "RelativeToolTip": "InterviewPanelAvailabilitySystemAPITest\\Services\\AdminServiceTests.cs",
+              "ViewState": "AQIAACkDAAAAAAAAAAAMwDcDAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T05:09:28.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RecruiterControllerTests.cs",
+              "DocumentMoniker": "C:\\Repos\\Alpha\\InterviewPanelAvailabilitySystem\\InterviewerAvailabilityPanelSystemMVCTests\\ControllerTests\\RecruiterControllerTests.cs",
+              "RelativeDocumentMoniker": "InterviewerAvailabilityPanelSystemMVCTests\\ControllerTests\\RecruiterControllerTests.cs",
+              "ToolTip": "C:\\Repos\\Alpha\\InterviewPanelAvailabilitySystem\\InterviewerAvailabilityPanelSystemMVCTests\\ControllerTests\\RecruiterControllerTests.cs",
+              "RelativeToolTip": "InterviewerAvailabilityPanelSystemMVCTests\\ControllerTests\\RecruiterControllerTests.cs",
+              "ViewState": "AQIAAK0DAAAAAAAAAAAnwLwDAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T12:46:20.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthControllerTests.cs",
+              "DocumentMoniker": "C:\\Repos\\Alpha\\InterviewPanelAvailabilitySystem\\InterviewerAvailabilityPanelSystemMVCTests\\ControllerTests\\AuthControllerTests.cs",
+              "RelativeDocumentMoniker": "InterviewerAvailabilityPanelSystemMVCTests\\ControllerTests\\AuthControllerTests.cs",
+              "ToolTip": "C:\\Repos\\Alpha\\InterviewPanelAvailabilitySystem\\InterviewerAvailabilityPanelSystemMVCTests\\ControllerTests\\AuthControllerTests.cs",
+              "RelativeToolTip": "InterviewerAvailabilityPanelSystemMVCTests\\ControllerTests\\AuthControllerTests.cs",
+              "ViewState": "AQIAAOgAAAAAAAAAAAAwwDQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T12:45:58.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminControllerTests.cs",
+              "DocumentMoniker": "C:\\Repos\\Alpha\\InterviewPanelAvailabilitySystem\\InterviewerAvailabilityPanelSystemMVCTests\\ControllerTests\\AdminControllerTests.cs",
+              "RelativeDocumentMoniker": "InterviewerAvailabilityPanelSystemMVCTests\\ControllerTests\\AdminControllerTests.cs",
+              "ToolTip": "C:\\Repos\\Alpha\\InterviewPanelAvailabilitySystem\\InterviewerAvailabilityPanelSystemMVCTests\\ControllerTests\\AdminControllerTests.cs",
+              "RelativeToolTip": "InterviewerAvailabilityPanelSystemMVCTests\\ControllerTests\\AdminControllerTests.cs",
+              "ViewState": "AQIAAFIDAAAAAAAAAAAcwLIFAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T06:35:15.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Repos\\Alpha\\InterviewPanelAvailabilitySystem\\InterviewPanelAvailabilitySystemMVC\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "InterviewPanelAvailabilitySystemMVC\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Repos\\Alpha\\InterviewPanelAvailabilitySystem\\InterviewPanelAvailabilitySystemMVC\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "InterviewPanelAvailabilitySystemMVC\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGoAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T05:19:11.076Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 388,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{320fd13f-632f-4b16-9527-a1adfe555f6c}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

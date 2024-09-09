@@ -1,0 +1,119 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = InterviewPanelAvailabilitySystemMVC
+build_property.RootNamespace = InterviewPanelAvailabilitySystemMVC
+build_property.ProjectDir = C:\Repos\Alpha\InterviewPanelAvailabilitySystem\InterviewPanelAvailabilitySystemMVC\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Repos\Alpha\InterviewPanelAvailabilitySystem\InterviewPanelAvailabilitySystemMVC
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Repos/Alpha/InterviewPanelAvailabilitySystem/InterviewPanelAvailabilitySystemMVC/Views/Admin/AddInterviewer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRkSW50ZXJ2aWV3ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Repos/Alpha/InterviewPanelAvailabilitySystem/InterviewPanelAvailabilitySystemMVC/Views/Admin/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Repos/Alpha/InterviewPanelAvailabilitySystem/InterviewPanelAvailabilitySystemMVC/Views/Admin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Repos/Alpha/InterviewPanelAvailabilitySystem/InterviewPanelAvailabilitySystemMVC/Views/Auth/ChangePassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxDaGFuZ2VQYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Repos/Alpha/InterviewPanelAvailabilitySystem/InterviewPanelAvailabilitySystemMVC/Views/Auth/LoginUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxMb2dpblVzZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Repos/Alpha/InterviewPanelAvailabilitySystem/InterviewPanelAvailabilitySystemMVC/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Repos/Alpha/InterviewPanelAvailabilitySystem/InterviewPanelAvailabilitySystemMVC/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Repos/Alpha/InterviewPanelAvailabilitySystem/InterviewPanelAvailabilitySystemMVC/Views/Interviewer/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW50ZXJ2aWV3ZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Repos/Alpha/InterviewPanelAvailabilitySystem/InterviewPanelAvailabilitySystemMVC/Views/Recruiter/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjcnVpdGVyXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Repos/Alpha/InterviewPanelAvailabilitySystem/InterviewPanelAvailabilitySystemMVC/Views/Recruiter/UpdateInterviewSlot.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjcnVpdGVyXFVwZGF0ZUludGVydmlld1Nsb3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Repos/Alpha/InterviewPanelAvailabilitySystem/InterviewPanelAvailabilitySystemMVC/Views/Report/DateRangeBasedCountReportReport.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVwb3J0XERhdGVSYW5nZUJhc2VkQ291bnRSZXBvcnRSZXBvcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Repos/Alpha/InterviewPanelAvailabilitySystem/InterviewPanelAvailabilitySystemMVC/Views/Report/DetailedDateRangeBasedReport.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVwb3J0XERldGFpbGVkRGF0ZVJhbmdlQmFzZWRSZXBvcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Repos/Alpha/InterviewPanelAvailabilitySystem/InterviewPanelAvailabilitySystemMVC/Views/Report/DetailedInterviewRoundReport.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVwb3J0XERldGFpbGVkSW50ZXJ2aWV3Um91bmRSZXBvcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Repos/Alpha/InterviewPanelAvailabilitySystem/InterviewPanelAvailabilitySystemMVC/Views/Report/DetailedReport.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVwb3J0XERldGFpbGVkUmVwb3J0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Repos/Alpha/InterviewPanelAvailabilitySystem/InterviewPanelAvailabilitySystemMVC/Views/Report/InterviewRoundBasedCountReportReport.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVwb3J0XEludGVydmlld1JvdW5kQmFzZWRDb3VudFJlcG9ydFJlcG9ydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Repos/Alpha/InterviewPanelAvailabilitySystem/InterviewPanelAvailabilitySystemMVC/Views/Report/JobRoleBasedCountReportReport.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVwb3J0XEpvYlJvbGVCYXNlZENvdW50UmVwb3J0UmVwb3J0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Repos/Alpha/InterviewPanelAvailabilitySystem/InterviewPanelAvailabilitySystemMVC/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Repos/Alpha/InterviewPanelAvailabilitySystem/InterviewPanelAvailabilitySystemMVC/Views/Shared/_AuthenticationView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BdXRoZW50aWNhdGlvblZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Repos/Alpha/InterviewPanelAvailabilitySystem/InterviewPanelAvailabilitySystemMVC/Views/Shared/_RecruiterPartialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9SZWNydWl0ZXJQYXJ0aWFsVmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Repos/Alpha/InterviewPanelAvailabilitySystem/InterviewPanelAvailabilitySystemMVC/Views/Shared/_ReportView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9SZXBvcnRWaWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Repos/Alpha/InterviewPanelAvailabilitySystem/InterviewPanelAvailabilitySystemMVC/Views/Shared/_SlotCountReportView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TbG90Q291bnRSZXBvcnRWaWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Repos/Alpha/InterviewPanelAvailabilitySystem/InterviewPanelAvailabilitySystemMVC/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Repos/Alpha/InterviewPanelAvailabilitySystem/InterviewPanelAvailabilitySystemMVC/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Repos/Alpha/InterviewPanelAvailabilitySystem/InterviewPanelAvailabilitySystemMVC/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Repos/Alpha/InterviewPanelAvailabilitySystem/InterviewPanelAvailabilitySystemMVC/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-zx9zd4gjtc
